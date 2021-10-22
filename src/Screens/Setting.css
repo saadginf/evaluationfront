@@ -1,0 +1,28 @@
+.users-table-container {
+  border: 1px solid black;
+  padding: 20px;
+  margin-top: 30px;
+}
+.users-table-container h5 {
+  background-color: white;
+  margin-top: -35px;
+  width: 90px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+}
+
+.settings-buttons {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+.success-vector {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.success-vector img {
+  width: 100px;
+  height: 100px;
+}

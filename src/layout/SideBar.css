@@ -1,0 +1,28 @@
+.sidebar-container {
+  background-color: #323a45;
+  width: 100px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  margin-right: 100px;
+}
+.sideBar-link-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  width: 100%;
+}
+.sidebar-link {
+  color: #f6f7f9;
+}
+.sidebar-link:hover {
+  color: #5faeb6;
+}
+.sidebar-link-active {
+  color: #5faeb6;
+}
